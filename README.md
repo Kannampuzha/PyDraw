@@ -18,11 +18,11 @@ You can save a vector by saving it as .ps (Postscript) file and converting it to
 
 
 Things worth ading :
-Ctrl +Z shortcut for undo
-Redo button 
-Shapes
-UI Improvement 
-Pickling Undo function (Currently it uses text files and exec() )
+Ctrl +Z shortcut for undo<br>
+Redo button <br>
+Shapes<br>
+UI Improvement <br>
+Pickling Undo function (Currently it uses text files and exec() )<br>
 
 
 
