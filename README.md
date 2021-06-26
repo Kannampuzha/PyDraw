@@ -4,11 +4,11 @@ A simple paint application in python
 This is a simple Paint application made using python .
 
 ![Screenshort of app](https://github.com/Kannampuzha/Paint/blob/master/Screenshot.png)
-![Canvas](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot2.png)
-![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot3.png)
-![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot4.png)
-![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot5.png)
-![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot6.png)
+![Canvas](https://github.com/Kannampuzha/Paint/blob/master/Screenshot2.png)
+![Picture](https://github.com/Kannampuzha/Paint/blob/master/Screenshot3.png)
+![Picture](https://github.com/Kannampuzha/Paint/blob/master/Screenshot4.png)
+![Picture](https://github.com/Kannampuzha/Paint/blob/master/Screenshot5.png)
+![Picture](https://github.com/Kannampuzha/Paint/blob/master/Screenshot6.png)
 
 
 The image is saved using 'pyscreenshort' , and it can be saved in
