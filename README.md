@@ -24,7 +24,7 @@ Shapes<br>
 UI Improvement <br>
 Pickling Undo function (Currently it uses text files and exec() )<br>
 
-Special thanks to [VFXGamer](https://github.com/VFXGamer) for the Graph idea and this styling up this readme file .
+Special thanks to [VFXGamer](https://github.com/VFXGamer) for the Graph idea.
 
 
 
