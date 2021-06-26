@@ -21,6 +21,3 @@ _You can save a vector by saving it as **.ps** (Postscript) file and converting 
 <li>UI Improvement</li>
 <li>Pickling Undo function (Currently it uses text files and exec())</li>
 </ul>
-
-
-
