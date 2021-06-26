@@ -3,17 +3,27 @@ A simple paint application in python
 
 This is a simple Paint application made using python .
 
-![Screenshort of app](https://github.com/Kannampuzha/Paint-Application/blob/master/Screenshot.png)
-![Canvas](https://github.com/Kannampuzha/Paint-Application/blob/master/Screenshot2.png)
-
+![Screenshort of app](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot.png)
+![Canvas](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot2.png)
+![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot3.png)
+![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot4.png)
+![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot5.png)
+![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot6.png)
 
 
 The image is saved using 'pyscreenshort' , and it can be saved in
 formats like jpeg,gif,png etc.
 
-For windows users:
-The 'save' button would work well only if 
-you change the line 132 as follows:
+You can save a vector by saving it as .ps (Postscript) file and converting it to pdf/svg .
 
-`filename = asksaveasfilename(initialdir = "/",title = "Select file",filetypes = (('JPEG', ('*.jpg','*.jpeg','*.jpe','*.jfif')),('PNG', '*.png'),('BMP', ('*.bmp','*.jdib')),('GIF', '*.gif')))`
+
+Things worth ading :
+Ctrl +Z shortcut for undo
+Redo button 
+Shapes
+UI Improvement 
+Pickling Undo function (Currently it uses text files and exec() )
+
+
+
 
