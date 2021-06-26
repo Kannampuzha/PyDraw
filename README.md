@@ -11,9 +11,6 @@ This is a simple Paint application made using python .
 ![Picture](https://github.com/Kannampuzha/Paint/blob/master/Screenshot6.png)
 
 
-The image is saved using 'pyscreenshort' , and it can be saved in
-formats like jpeg,gif,png etc.
-
 You can save a vector by saving it as .ps (Postscript) file and converting it to pdf/svg .
 
 
