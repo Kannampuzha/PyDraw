@@ -3,7 +3,7 @@ A simple paint application in python
 
 This is a simple Paint application made using python .
 
-![Screenshort of app](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot.png)
+![Screenshort of app](https://github.com/Kannampuzha/Paint/blob/master/Screenshot.png)
 ![Canvas](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot2.png)
 ![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot3.png)
 ![Picture](https://github.com/Kannampuzha/Paint-App/blob/master/Screenshot4.png)
