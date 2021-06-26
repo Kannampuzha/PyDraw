@@ -22,3 +22,5 @@ _You can save a vector by saving it as **.ps** (Postscript) file and converting 
 <li>Pickling Undo function (Currently it uses text files and exec())</li>
 </ul>
 
+
+Special thanks to [VFXGamer](https://github.com/VFXGamer) for the graph idea and styling this repo.
