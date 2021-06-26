@@ -17,7 +17,7 @@ formats like jpeg,gif,png etc.
 You can save a vector by saving it as .ps (Postscript) file and converting it to pdf/svg .
 
 
-Things worth ading :
+Things worth ading :<br>
 Ctrl +Z shortcut for undo<br>
 Redo button <br>
 Shapes<br>
